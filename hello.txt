@@ -1,1 +1,5 @@
-Hello Word
+Hello World !!
+
+Saya Dengan belajar menggunakan GIT !!
+
+Saya Pasti Sepuh !!
